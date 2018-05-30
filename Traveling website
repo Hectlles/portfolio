@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="yunnan.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="yunnan.ico" type="image/x-icon">
+    <title>My Portfolio</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <header class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <img src="images/logo.jpg" alt="my logo">
+        </div>
+        <div class="col-md-6 text-right text-uppercase">
+          <h1 class="text-thin">Hectlles</h1>
+          <h4>Front-end Aholic</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <hr>
+        </div>
+      </div>
+    </header>
+    <main class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <img class="img-responsive" src="images/mainpic.jpg" alt="main picture">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="text-muted">Featured Work</h2>
+        </div>
+      </div>
+      <section class="row text-center">
+        <div class="col-md-4">
+          <img class="img-responsive" src="images/work1.jpg" alt="Mountains">
+          <h3 class="text-uppercase">Mountains</h3>
+          <p><a class="word-wrap" href="http://commun-it.ca/wp-content/uploads/2012/06/Big-Picture-Mountains-credit-blimiers2.jpg">http://commun-it.ca/wp-content/uploads/2012/06/Big-Picture-Mountains-credit-blimiers2.jpg</a></p>
+        </div>
+        <div class="col-md-4">
+          <img class="img-responsive" src="images/work2.jpeg" alt="Sunset">
+          <h3 class="text-uppercase">Sunset</h3>
+          <p><a class="word-wrap" href="http://fullhdwall.com/wp-content/uploads/2016/02/Landscape-Sunset-Picture.jpeg">http://fullhdwall.com/wp-content/uploads/2016/02/Landscape-Sunset-Picture.jpeg</a></p>
+        </div>
+        <div class="col-md-4">
+          <img class="img-responsive" src="images/work3.jpg" alt="Flower">
+          <h3 class="text-uppercase">Flower</h3>
+          <p><a class="word-wrap" href="https://szkolkaczwarno.pl/media/products/4f9ca28881a8ffd8ffd59a5324da77eb/images/TULIPAN-PICTURE.JPG">https://szkolkaczwarno.pl/media/products/4f9ca28881a8ffd8ffd59a5324da77eb/images/TULIPAN-PICTURE.JPG</a></p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
